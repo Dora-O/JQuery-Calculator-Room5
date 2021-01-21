@@ -1,0 +1,2 @@
+var firstNumber = '';
+var secondNumber = '';

@@ -21,6 +21,7 @@ firstNumber += thing;
 
 password generator might have a thing for combining multiple numbers into a single series of numbers
 instead of 5+5=10 it would be 5+5=55 (I think it made them into a string and doing +=)
+number string --> parseint => result
 
 general order:
 click numbers
