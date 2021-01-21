@@ -1,0 +1,32 @@
+Variables on the global level (done)
+
+combining the different things into 
+
+numbers for the different operators 
+
+if else statements
+
+0 is addition
+1 is subtraction
+
+
+if (operator === 0)
+	result = firstNumber + secondNumber;
+else if (operator === 1)
+	result = firstNumber - secondNumber;
+
+nesting the clicks inside eachother? (probably a bad idea)
+
+firstNumber += thing;
+
+password generator might have a thing for combining multiple numbers into a single series of numbers
+instead of 5+5=10 it would be 5+5=55 (I think it made them into a string and doing +=)
+
+general order:
+click numbers
+click operator
+click numbers
+click equals
+display result
+
+disable operators? (end thing, fine to not do)
